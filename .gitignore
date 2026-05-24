@@ -1,0 +1,16 @@
+# binary
+goload
+
+# go
+*.test
+*.out
+vendor/
+
+# os
+.DS_Store
+Thumbs.db
+
+# editors
+.idea/
+.vscode/
+*.swp
